@@ -31,6 +31,9 @@ Example:
 
 The output tries to be somewhat readable. Reformat at will.
 
+## Install
+
+    npm install reflect-unbuilder
 
 ## Node Properties
 See the [Mozilla](https://developer.mozilla.org/en/SpiderMonkey/Parser_API#Node_objects) documentation for the default node APIs. The following are additional properties provided by unbuilder.
