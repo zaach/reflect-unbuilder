@@ -1,0 +1,17 @@
+{
+  "author": "Zach Carter <zcarter@cse.usf.edu> (http://zaa.ch)",
+  "name": "reflect-unbuilder",
+  "description": "Turns a reflect.js AST into serialized builder constructors.",
+  "version": "0.0.1",
+  "repository": {
+    "url": "https://github.com/zaach/reflect-unbuilder"
+  },
+  "main": "lib/builder.js",
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {
+    "reflect-builder": "*"
+  },
+  "devDependencies": {}
+}
