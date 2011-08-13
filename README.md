@@ -1,8 +1,6 @@
+#  The Unbuilder
+
 An AST-to-source-code serializer for [reflect.js](https://github.com/zaach/reflect.js).
-
-# Tree Builder
-The tree builder creates default nodes extended with properties and methods for traversing and manipulating the tree.
-
 
 Example:
 
